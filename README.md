@@ -1,1 +1,1 @@
-# federated_learning_tutorials
+# Hands-On Federated Learning
